@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-car-service-theme/static/css/main.9a6a62ec.css",
-    "main.js": "/react-car-service-theme/static/js/main.7d96fa32.js",
+    "main.js": "/react-car-service-theme/static/js/main.1267fba6.js",
     "static/js/453.cc432a5f.chunk.js": "/react-car-service-theme/static/js/453.cc432a5f.chunk.js",
     "static/media/la-brands-400.svg": "/react-car-service-theme/static/media/la-brands-400.928495fae14841a0d610.svg",
     "static/media/la-solid-900.svg": "/react-car-service-theme/static/media/la-solid-900.a813034654b4ff0a0bac.svg",
@@ -79,11 +79,11 @@
     "static/media/slick.ttf": "/react-car-service-theme/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/react-car-service-theme/static/media/slick.295183786cd8a1389865.woff",
     "main.9a6a62ec.css.map": "/react-car-service-theme/static/css/main.9a6a62ec.css.map",
-    "main.7d96fa32.js.map": "/react-car-service-theme/static/js/main.7d96fa32.js.map",
+    "main.1267fba6.js.map": "/react-car-service-theme/static/js/main.1267fba6.js.map",
     "453.cc432a5f.chunk.js.map": "/react-car-service-theme/static/js/453.cc432a5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a6a62ec.css",
-    "static/js/main.7d96fa32.js"
+    "static/js/main.1267fba6.js"
   ]
 }
