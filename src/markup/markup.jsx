@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
+import { Routes, Route, Outlet } from "react-router-dom";
 
 // Elements
 import BackToTop from './elements/back-top';
@@ -44,7 +44,7 @@ class Markup extends Component{
 		return(
 			<>	
 			
-			<BrowserRouter basename={'/react'}>
+			{/* <BrowserRouter basename={'/react'}> */}
 				{/* <BrowserRouter> */}
 					
 					<Routes>
@@ -85,7 +85,7 @@ class Markup extends Component{
 					
 					<PageScrollTop />
 					
-				</BrowserRouter>
+				{/* </BrowserRouter> */}
 				
 				<BackToTop />
 				
